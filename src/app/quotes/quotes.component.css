@@ -1,0 +1,55 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(15, 1, 1);
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 2%;
+    padding-top: 2%;
+  }
+  h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  span{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .overlay{
+    background-color:rgba(250, 220, 237, 0.301);
+    border-radius: 5px;
+    margin-top:4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 5%;
+  }
+  #name{
+    color:rgb(14, 188, 241);
+    font-weight: 700;
+  }
+  .all-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  #quotes-button{
+    float: right;
+  }
+  .card{
+    margin-bottom: 2%;
+    background-color: rgb(240, 132, 182);
+    box-shadow: 2px 2px 3px 2px black;
+  }
+  #date{
+    float: right;
+    font-size: 14px;
+  }
+  #datecolor{
+    color: rgb(14, 188, 241);
+    font-weight: 700;
+  }
+  .card-text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 570;
+    font-size: 18px;
+  }

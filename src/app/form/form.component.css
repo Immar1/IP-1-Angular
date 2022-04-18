@@ -1,0 +1,27 @@
+.form-control{
+    color: rgb(240, 231, 231);
+    background: transparent;
+    font-weight: 570;
+  }
+  label{
+    color: rgb(15, 14, 15);
+    font-weight: 600;
+  }
+  hr{
+    width: 50%;
+    height: 2px;
+    background-color: rgb(233, 8, 121);
+  }
+  .heading{
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding-top: 2%;
+  }
+  .container-fluid{
+    background-color: rgb(240, 132, 182);
+    border-radius: 4px;
+    padding-bottom: 5%;
+    box-shadow: 2px 2px 3px 2px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 5%;
+  }
