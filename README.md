@@ -2,7 +2,7 @@
 
 ## Author
 
-[Winfred Obiri]()
+[Winfred Obiri](https://github.com/Immar1)
 
 ## Description
 
@@ -12,7 +12,7 @@ Do you need a place to write your quotes? Then this is the right app. Quotes app
  
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+This project was generated with [Angular CLI](https://github.com/Immar1/IP-1-Angular.git) version 8.2.1.
 
 ## Development server
 
@@ -41,7 +41,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone 
+* git clone [https://github.com/Immar1/IP-1-Angular.git]
 
 * cd Quotes App
 
